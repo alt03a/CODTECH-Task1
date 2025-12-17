@@ -30,3 +30,7 @@ Model Configuration: I initialized the DecisionTreeClassifier with the criterion
 Visualization: A crucial part of this task was visualizing the tree structure. Using plot_tree, I generated a graphical representation of the decision logic. This visualization reveals exactly how the model makes decisions—for example, it might first check if the "petal width" is less than 0.8 cm to immediately isolate the Setosa species.
 
 Results and Conclusion The model achieved high accuracy on the test set, demonstrating the effectiveness of Decision Trees for tabular classification tasks. The visualization provided clear insights into feature importance, showing that petal dimensions were more significant discriminators than sepal dimensions for this specific dataset. This project highlights the interpretability of Decision Trees, which is a significant advantage over "black box" models like neural networks.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/272e25a2-4fab-4632-bba2-c1432805d94e)
